@@ -1,11 +1,13 @@
 # Software Foundations, SNU M1522.001200, 2018 Fall
 
 - Instructor: Prof. [Chung-Kil Hur](http://sf.snu.ac.kr/gil.hur)
+    + Email address: gil.hur@sf.snu.ac.kr
+    + Office: 302-426
 - TA: [Juneyoung Lee](http://sf.snu.ac.kr/juneyoung.lee)
-    + Email address: [juneyoung.lee@sf.snu.ac.kr](mailto:juneyoung.lee@sf.snu.ac.kr)
-    + Place: Bldg 302 Rm 312-2
-    + Please use email to ask questions (No GitHub Issues)
+    + Email address: juneyoung.lee@sf.snu.ac.kr
+    + Office: 302-312-2
 - Class material: http://www.cis.upenn.edu/~bcpierce/sf/current/index.html
+- Please use email to ask questions (Don't use GitHub Issues)
 
 ### Grading
 
