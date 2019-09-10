@@ -1,4 +1,4 @@
-# Software Foundations, SNU M1522.001200, 2018 Fall
+# Software Foundations, SNU 4190.574, 2019 Fall
 
 - Instructor: Prof. [Chung-Kil Hur](http://sf.snu.ac.kr/gil.hur)
     + Email address: gil.hur@sf.snu.ac.kr
