@@ -15,6 +15,19 @@
 - Assignments: 45%
 - Attendance: 5%
 
+### Announcement
+
+- Sep. 28: Assignment 1 is uploaded.
+
+### Assignments
+
+- Visit http://147.46.242.54:8000 and log-in with your id (e.g. 2016-12345). Your initial password is equivalent to your id.
+
+| Due        	| Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+|------------	|-----------------------------------------------------------------------------------
+| Oct.6 23:59  	| Assignment 1                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+
+
 ### Coq
 
 - Install Coq [8.9.1](https://coq.inria.fr).
