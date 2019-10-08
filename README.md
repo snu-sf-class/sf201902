@@ -17,6 +17,7 @@
 
 ### Announcement
 
+- Oct. 8: Midterm will be held on Oct. 26th Sunday, 7 - 11 pm at 302동 소프트웨어실습실 (https://cse.snu.ac.kr/facility/소프트웨어-실험실 ).
 - Sep. 28: Assignment 1 is uploaded.
 
 ### Assignments
