@@ -17,6 +17,7 @@
 
 ### Announcement
 
+- Oct. 12: Assignment 2 is uploaded.
 - Oct. 8: Midterm will be held on Oct. 26th Sat, 7 - 11 pm at 302동 소프트웨어실습실 (https://cse.snu.ac.kr/facility/소프트웨어-실험실 ).
 - Sep. 28: Assignment 1 is uploaded.
 
@@ -27,6 +28,7 @@
 | Due        	| Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 |------------	|-----------------------------------------------------------------------------------
 | Oct.6 23:59  	| Assignment 1                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| Oct.20 23:59 	| Assignment 2                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 
 ### Coq
