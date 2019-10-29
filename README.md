@@ -11,7 +11,7 @@
 
 ### Grading
 
-- Exams: 40% (mid-term 20% and final 30%)
+- Exams: 50% (mid-term 20% and final 30%)
 - Assignments: 45%
 - Attendance: 5%
 
