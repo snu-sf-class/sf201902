@@ -11,12 +11,13 @@
 
 ### Grading
 
-- Exams: 40% (mid-term 20% and final 30%)
+- Exams: 50% (mid-term 20% and final 30%)
 - Assignments: 45%
 - Attendance: 5%
 
 ### Announcement
 
+- Oct. 31: See [Perm_automation.v](Perm_automation.v) for the shorter proof which is explained at the class
 - Oct. 12: Assignment 2 is uploaded.
 - Oct. 8: Midterm will be held on Oct. 26th Sat, 7 - 11 pm at 302동 소프트웨어실습실 (https://cse.snu.ac.kr/facility/소프트웨어-실험실 ).
 - Sep. 28: Assignment 1 is uploaded.
