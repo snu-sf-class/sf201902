@@ -17,6 +17,7 @@
 
 ### Announcement
 
+- Nov. 12: See [SearchTreeCorrectness.v](SearchTreeCorrectness.v) for the statement and proof of correctness of a search tree.
 - Nov. 9: Assignment 3 is uploaded.
 - Oct. 31: See [Perm_automation.v](Perm_automation.v) for the shorter proof which is explained at the class
 - Oct. 12: Assignment 2 is uploaded.
