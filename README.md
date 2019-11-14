@@ -51,6 +51,7 @@
 
 - Install IDE for Coq.
     + CoqIDE: installed by default.
+        * If you see "Error: The file .. contains library Top.D and not library D.", please open the file with command `coqide -R . Top D.v`. 
     + Emacs: [Company-Coq](https://github.com/cpitclaudel/company-coq). Follow the setup instructions.
         * If it shows `Searching for program No such file or directory coqtop` error, please add `(custom-set-variables '(coq-prog-name "PATH/TO/coqtop"))` to `.emacs` file.
         * In case of MacOS, coqtop is at `/Applications/CoqIDE_8.9.1.app/Contents/Resources/bin/`.
