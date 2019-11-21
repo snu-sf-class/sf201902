@@ -17,6 +17,7 @@
 
 ### Announcement
 
+- Nov. 21: Assignment 4 is uploaded.
 - Nov. 19: Final exam will be held on Dec. 14th Sat, 7 - 12 pm at 302동 소프트웨어실습실 (https://cse.snu.ac.kr/facility/소프트웨어-실험실 ). If it conflicts with your schedule, please send a mail to TA.
 - Nov. 18: We don't have a class on Thursday (Nov. 21).
 - Nov. 12: See [SearchTreeCorrectness.v](SearchTreeCorrectness.v) for the statement and proof of correctness of a search tree.
@@ -35,6 +36,7 @@
 | Oct.6 23:59  	| Assignment 1                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | Oct.20 23:59 	| Assignment 2                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | Nov.24 23:59 	| Assignment 3                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| Dec.08 23:59 	| Assignment 4                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 
 ### Coq
