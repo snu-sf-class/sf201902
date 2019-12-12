@@ -1,0 +1,5 @@
+Axiom
+admit
+Admitted
+Variable
+Parameter
